@@ -1,5 +1,7 @@
 Planetary Protection Pioneers
+
 Overview
+
 Building a Retrieval-Augmented Generation (RAG) bot can significantly enhance the capabilities of a language model by incorporating external knowledge to generate more accurate and contextually relevant responses. This guide will walk you through creating a RAG bot specifically focused on planetary protection practices, leveraging Gradio and the Hugging Face APIs.
 
 How RAG Enhances LLM Performance
